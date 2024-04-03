@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "dart.flutterHotReloadOnSave": "all",
+    "dart.hotReloadOnSave": "all",
+    "workbench.editor.enablePreview": false
+}
