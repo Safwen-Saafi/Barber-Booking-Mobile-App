@@ -4,7 +4,7 @@ class BColors {
   BColors._();
 
   //App Basic Colors
-  static const Color primary = Color.fromARGB(255, 84, 8, 146);
+  static const Color primary = Color.fromARGB(255, 60, 53, 71);
   static const Color secondary = Color(0xFF40A2E3);
   static const Color accent = Color(0xFF9BE8D8);
 
