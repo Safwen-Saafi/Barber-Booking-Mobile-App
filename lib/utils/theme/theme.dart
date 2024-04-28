@@ -1,3 +1,4 @@
+import 'package:barber_app/utils/theme/custom_themes/elevated_button_theme.dart';
 import 'package:barber_app/utils/theme/custom_themes/text_theme.dart';
 import 'package:flutter/material.dart';
 
@@ -11,5 +12,6 @@ class BAppTheme {
     brightness: Brightness.dark,
     primaryColor: Color.fromARGB(255, 60, 53, 71),
     textTheme: BTextTheme.txtTheme,
+    elevatedButtonTheme: BElevatedButtonTheme.appElevatedButtonTheme,
   );
 }
